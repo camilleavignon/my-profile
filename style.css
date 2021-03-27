@@ -80,7 +80,6 @@ width: 600px;
 @media (max-width: 540px) {
 .container {
 width: 500px;
-font-size: 25px;
 }
 h1 {
 	line-height: 40px
