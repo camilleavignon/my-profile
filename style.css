@@ -59,9 +59,9 @@ a:hover {
 	padding-bottom: 24px
 }
 
-@media (max-width: 2000px) {
+@media (max-width: 3000px) {
 .container {
-width: 1300px;
+width: 1000px;
 }
 }
 
