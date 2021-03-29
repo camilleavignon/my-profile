@@ -2,7 +2,7 @@
 
 body {
 	font-family: Apercu Pro,-apple-system,BlinkMacSystemFont,Helvetica,sans-serif;
-	background: #C19770;
+	background-image: url(background.jpg);
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 400;
@@ -35,7 +35,7 @@ a {
 }
 
 a:hover {
-	color: #C19770
+	color: rgb(169,186,157);
 }
 
 
@@ -107,7 +107,7 @@ h1 {
 
 
 .btn {
-	background-color: #D5B895;
+	background-color: rgb(169,186,157);
 	color: white;
 	padding: 8px 15px;
 	border-radius: 1.5px;
@@ -116,7 +116,7 @@ h1 {
 
 
 .btn:hover {
-	background-color: #C19770;
+	background-color: #6C765B;
 	color: white;
 	text-decoration: none;
 }
@@ -129,6 +129,7 @@ h1 {
 
 .list-horizontal li {
 	display: inline;
+	align-content: center;
 	padding: 10px;
 }
 
@@ -138,10 +139,13 @@ h1 {
 }
 
 .list-horizontal i:hover {
-	color: #D5B895;
+	color: rgb(169,186,157);
 }
 
-
+.cosmetics-pictures {
+	border-radius: 3px;
+	margin: 15px
+}
 
 
 
@@ -150,8 +154,3 @@ h1 {
 #introduction {
 	padding-bottom: 40px 
 }
-
-
-
-
-
