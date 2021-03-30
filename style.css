@@ -39,6 +39,10 @@ a:hover {
 	color: rgb(169,186,157);
 }
 
+.contact {
+	text-decoration: none;
+}
+
 
 #photo_profil {
 	margin: 10px;
