@@ -3,6 +3,7 @@
 body {
 	font-family: Apercu Pro,-apple-system,BlinkMacSystemFont,Helvetica,sans-serif;
 	background-image: url(background.jpg);
+	background-attachment: fixed;
 	font-size: 16px;
 	font-style: normal;
 	font-weight: 400;
@@ -29,7 +30,7 @@ h2 {
 }
 
 a {
-	text-decoration: none;
+	text-decoration: underline;
 	color: black;
 	transition: color 0.2s ease;
 }
